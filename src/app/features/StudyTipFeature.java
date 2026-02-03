@@ -4,10 +4,10 @@ public class StudyTipFeature {
     public static String run() {
         return "Study Tip or any fun facts \n"
                 + "------------------------------\n"
-                + "Student Name: YOUR NAME HERE\n"
-                + "Study Style: YOUR STUDY STYLE HERE\n"
-                + "Tip:\n"
-                + "Replace this text with your own study tip or any fun facts .\n"
+                + "Student Name: Preet Jindal\n"
+                + "Study Style: In one setting with like 4 hour\n"
+                + "Tip: stay hydrated\n"
+
                 + "------------------------------\n";
     }
 }
