@@ -4,8 +4,8 @@ public class FunFactFeature {
     public static String run() {
         return "Fun Fact\n"
              + "------------------------------\n"
-             + "Student Name: YOUR NAME HERE\n"
-             + "Fun Fact About You:\n"
+             + "Student Name: Janvi patel\n"
+             + "Fun Fact About You: i am crazyyyyyy\n"
              + "Replace this text with a fun fact.\n"
              + "------------------------------\n";
     }
